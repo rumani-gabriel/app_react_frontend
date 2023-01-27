@@ -29,6 +29,38 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm install --save styled-components`
+
+Visual primitives for the component age.
+Use the best bits of ES6 and CSS to style your apps without stress.
+
+
+### `npm install react-router-dom`
+React Router is a library to manage routes in applications that use ReactJS. It is inspired by the Ember routing system. js.
+
+
+### `npm install react-scroll`
+Smooth scrolling is one of those features that can add a lot of aesthetic value to your application. The react-scroll package allows you to take advantage of this feature without significant effort.
+
+
+### `npm install react-icons --save`
+Include popular icons in your React projects easily with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using.
+_________________________________________________________________________________
+### `npm install axios`
+Axios is a library that helps us make http requests to external resources. In our React applications we often need to retrieve data from external APIs so it can be displayed in our web pages.
+
+### `npm install react-cookie`
+A polyfill to allow use of the Cookie Store API in modern browsers that don't support it natively, including IE11. Also compatible with TypeScript.
+
+### `npm install emailjs`
+works with SSL and TLS smtp servers
+supports smtp authentication ('PLAIN', 'LOGIN', 'CRAM-MD5', 'XOAUTH2')
+emails are queued and the queue is sent asynchronously
+supports sending html emails and emails with multiple attachments (MIME)
+attachments can be added as strings, streams or file paths
+supports utf-8 headers and body
+built-in type declarations
+automatically handles greylisting
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
